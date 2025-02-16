@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   plugins: [
     // 1. コミット履歴から次期バージョン番号を算出する。
     [
