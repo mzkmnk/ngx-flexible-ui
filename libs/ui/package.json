@@ -1,6 +1,9 @@
 {
-  "name": "@mzkmnk-lab/ui",
+  "name": "@mzkmnk-lab/ngx-flexible-ui",
   "version": "0.0.1",
+  "dependencies": {
+    "tailwindcss": "^3.4.17"
+  },
   "peerDependencies": {
     "@angular/core": "^19.1.0",
     "@nx/angular": "20.4.4"
