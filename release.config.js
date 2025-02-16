@@ -17,8 +17,12 @@ module.exports = {
     ],
 
     '@semantic-release/changelog',
-
-    '@semantic-release/npm',
+    [
+      '@semantic-release/npm',
+      {
+        pkgRoot: 'dist/libs',
+      }
+    ],
 
     [
       '@semantic-release/git',
