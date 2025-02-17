@@ -73,8 +73,5 @@
   },
   "nx": {
     "includedScripts": []
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
