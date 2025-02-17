@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/mzkmnk/ngx-flexible-ui/compare/v1.1.0...v1.2.0) (2025-02-17)
+
+### Features
+
+* change package name ([#8](https://github.com/mzkmnk/ngx-flexible-ui/issues/8)) ([9c2b7d2](https://github.com/mzkmnk/ngx-flexible-ui/commit/9c2b7d2251083504a992c4118dbfce92a6e46690))
+
 ## [1.1.0](https://github.com/mzkmnk/ngx-flexible-ui/compare/v1.0.0...v1.1.0) (2025-02-16)
 
 ### Features
