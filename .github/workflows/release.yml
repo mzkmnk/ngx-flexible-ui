@@ -20,8 +20,16 @@ jobs:
       - name: Setup node.js
         uses: actions/setup-node@v4
 
-      - name: Install dependencies
-        run: npm install
+      # Cache node_modules
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - run: npm ci --legacy-peer-deps
+      - run: npx playwright install --with-deps
+      - uses: nrwl/nx-set-shas@v4
+
 
       - name: Build
         run: npx nx build ui
