@@ -8,7 +8,6 @@
     "test": "nx test",
     "release": "semantic-release"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~19.1.0",
     "@angular/common": "~19.1.0",
