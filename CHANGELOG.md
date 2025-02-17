@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/mzkmnk/ngx-flexible-ui/compare/v1.2.0...v1.3.0) (2025-02-17)
+
+### Features
+
+* add publishConfig for public access in package.json ([#9](https://github.com/mzkmnk/ngx-flexible-ui/issues/9)) ([2a05851](https://github.com/mzkmnk/ngx-flexible-ui/commit/2a0585121a58a36346ee4a75873033b25e11080f))
+
 ## [1.2.0](https://github.com/mzkmnk/ngx-flexible-ui/compare/v1.1.0...v1.2.0) (2025-02-17)
 
 ### Features
