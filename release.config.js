@@ -1,5 +1,5 @@
 module.exports = {
-  brunches: ['main'],
+  branches: ['main'],
   plugins: [
     [
 
@@ -28,7 +28,7 @@ module.exports = {
     [
       '@semantic-release/git',
       {
-        assets: ['CHANGELOG.md', 'package.json', 'package-lock.json'],
+        assets: ['CHANGELOG.md', 'dist/libs/ui/package.json'],
       },
     ],
 
