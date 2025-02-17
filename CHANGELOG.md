@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/mzkmnk/ngx-flexible-ui/compare/v1.3.0...v1.4.0) (2025-02-17)
+
+### Features
+
+* update package.json for public access and adjust release config ([#10](https://github.com/mzkmnk/ngx-flexible-ui/issues/10)) ([f1bfecc](https://github.com/mzkmnk/ngx-flexible-ui/commit/f1bfecc4eeceba3f1aebab4beffe82c8ff289892))
+
 ## [1.3.0](https://github.com/mzkmnk/ngx-flexible-ui/compare/v1.2.0...v1.3.0) (2025-02-17)
 
 ### Features
